@@ -1,0 +1,218 @@
+[
+    {
+        "symbol": "SOXL",
+        "name": "Semiconductors Bull 3X (SOXL)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "SOXS",
+        "name": "Semiconductors Bear 3X (SOXS)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "MSTX",
+        "name": "MicroStrategy 2X Long (MSTX)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "MSTZ",
+        "name": "MicroStrategy 2X Short (MSTZ)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "BITX",
+        "name": "Bitcoin 2X Long (BITX)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "BTCZ",
+        "name": "Bitcoin 2X Short (BTCZ)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "ETHU",
+        "name": "Ethereum 2X Long (ETHU)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "CONL",
+        "name": "Coinbase 2X Long (CONL)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "CONI",
+        "name": "Coinbase 2X Short (CONI)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "NVDX",
+        "name": "Nvidia 2X Long (NVDX)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "NVD",
+        "name": "Nvidia 2X Short (NVD)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "AMDL",
+        "name": "AMD 2X Long (AMDL)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "MULL",
+        "name": "Micron 2X Long (MULL)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "MUZ",
+        "name": "Micron 2X Short (MUZ)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "TSMX",
+        "name": "TSMC 2X Long (TSMX)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "TQQQ",
+        "name": "Nasdaq-100 Bull 3X (TQQQ)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "SQQQ",
+        "name": "Nasdaq-100 Bear 3X (SQQQ)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "TSLL",
+        "name": "Tesla 2X Long (TSLL)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "TSLQ",
+        "name": "Tesla 2X Short (TSLQ)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "PTIR",
+        "name": "Palantir 2X Long (PTIR)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "PLTD",
+        "name": "Palantir 2X Short (PLTD)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "METU",
+        "name": "Meta 2X Long (METU)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "AMZU",
+        "name": "Amazon 2X Long (AMZU)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "AAPU",
+        "name": "Apple 2X Long (AAPU)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "GUSH",
+        "name": "Oil & Gas Exploration 2X (GUSH)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "DRIP",
+        "name": "Oil & Gas Inverse 2X (DRIP)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "UCO",
+        "name": "Crude Oil 2X Bull (UCO)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "SCO",
+        "name": "Crude Oil 2X Bear (SCO)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "BOIL",
+        "name": "Natural Gas 2X Bull (BOIL)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "KOLD",
+        "name": "Natural Gas 2X Bear (KOLD)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "GDXU",
+        "name": "Gold Miners 2X Bull (GDXU)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "GDXD",
+        "name": "Gold Miners 2X Bear (GDXD)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "RKLX",
+        "name": "Rocket Lab 2X Long (RKLX)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "RKLZ",
+        "name": "Rocket Lab 2X Short (RKLZ)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "QBTX",
+        "name": "Quantum Computing 2X (QBTX)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    },
+    {
+        "symbol": "LUNL",
+        "name": "Intuitive Machines Space (LUNL)",
+        "sma_period": 20,
+        "buffer_pct": 0.005
+    }
+]

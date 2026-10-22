@@ -551,7 +551,7 @@ class Bars:
         float, Decimal or None
 
         """
-        return self.df["close"][-1]
+        return self.df["close"].iloc[-1]
 
     def get_last_dividend(self):
         """Return the last dividend of the last bar

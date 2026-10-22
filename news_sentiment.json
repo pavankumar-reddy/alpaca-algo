@@ -1,0 +1,404 @@
+{
+  "updated_at": "2026-10-18 16:58:18 UTC",
+  "news": [
+    {
+      "id": 62429536,
+      "created_at": "2026-10-18 16:55:09 UTC",
+      "headline": "Trump\u2019s Russia Tariff Waiver Helps Apple, Eliminates Tariff Advantage for CF and CVR Partners",
+      "summary": "Trump\u2019s waiver of steep Russia\u2011related tariffs gives Apple temporary relief while denying fertilizer makers like CF Industries and CVR Partners a potential shield. The move reshapes outlooks across tech, energy, refining...",
+      "symbols": [
+        "AAPL",
+        "CF",
+        "LXU",
+        "MPC",
+        "UAN",
+        "VLO"
+      ],
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/commodities/26/10/62429536/trumps-russia-tariff-waiver-helps-apple-eliminates-tariff-advantage-for-cf-and-cvr-partners",
+      "sentiment": {
+        "compound": 0.836,
+        "pos": 0.203,
+        "neg": 0.04,
+        "neu": 0.758,
+        "label": "BULLISH",
+        "signal": "BUY LONG"
+      },
+      "pair_recommendation": {
+        "bull": "TQQQ",
+        "bear": "SQQQ",
+        "sector": "Tech & Nasdaq 100"
+      }
+    },
+    {
+      "id": 62429524,
+      "created_at": "2026-10-18 16:45:28 UTC",
+      "headline": "IREN Stock Drops Below Key Support as AI Pivot Faces Major Headwinds",
+      "summary": "IREN dropped below a crucial support level as the ongoing transition from Bitcoin mining to artificial intelligence faces headwinds.",
+      "symbols": [
+        "BTCUSD",
+        "IREN",
+        "IT",
+        "MSFT",
+        "SPCX"
+      ],
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62429524/iren-stock-drops-below-key-support-as-ai-pivot-faces-major-headwinds",
+      "sentiment": {
+        "compound": 0.818,
+        "pos": 0.239,
+        "neg": 0.0,
+        "neu": 0.761,
+        "label": "BULLISH",
+        "signal": "BUY LONG"
+      },
+      "pair_recommendation": {
+        "bull": "TQQQ",
+        "bear": "SQQQ",
+        "sector": "Tech & Nasdaq 100"
+      }
+    },
+    {
+      "id": 62429426,
+      "created_at": "2026-10-18 15:06:53 UTC",
+      "headline": "President Trump Gives Complete And Total Endorsement Of Benjamin Netanyahu In Upcoming Race For Re-Election As Israel\u2019s Prime Minister, In Truth Social Post",
+      "summary": "",
+      "symbols": [
+        "EIS",
+        "SPY",
+        "USO"
+      ],
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62429426/president-trump-gives-complete-and-total-endorsement-benjamin-netanyahu-upcoming-race-re-election-is",
+      "sentiment": {
+        "compound": 0.557,
+        "pos": 0.18,
+        "neg": 0.0,
+        "neu": 0.82,
+        "label": "BULLISH",
+        "signal": "BUY LONG"
+      },
+      "pair_recommendation": {
+        "bull": "UPRO",
+        "bear": "SPXU",
+        "sector": "S&P 500 Broad Market"
+      }
+    },
+    {
+      "id": 62429404,
+      "created_at": "2026-10-18 15:00:08 UTC",
+      "headline": "UK's Telegraph Reported Sunday, Microsoft Pulls Plug On Deal To Lease Computing Capacity From UK Start-Up Nscale At Essex Data Centre",
+      "summary": "",
+      "symbols": [
+        "EWU",
+        "MSFT"
+      ],
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62429404/uk-s-telegraph-reported-sunday-microsoft-pulls-plug-deal-lease-computing-capacity-uk-start-nscale-es",
+      "sentiment": {
+        "compound": 0.0,
+        "pos": 0.0,
+        "neg": 0.0,
+        "neu": 1.0,
+        "label": "NEUTRAL",
+        "signal": "HOLD / NEUTRAL"
+      },
+      "pair_recommendation": {
+        "bull": "TQQQ",
+        "bear": "SQQQ",
+        "sector": "Tech & Nasdaq 100"
+      }
+    },
+    {
+      "id": 62429371,
+      "created_at": "2026-10-18 14:30:22 UTC",
+      "headline": "Trump Gave Crypto What It Wanted: Is He Also Its Biggest Problem?",
+      "summary": "Trump delivered major crypto policy wins, but his family\u2019s financial ties threaten the CLARITY Act and future reform.",
+      "symbols": [
+        "BTCUSD",
+        "COIN"
+      ],
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62429371/trump-gave-crypto-what-it-wanted-is-he-also-its-biggest-problem",
+      "sentiment": {
+        "compound": 0.557,
+        "pos": 0.187,
+        "neg": 0.091,
+        "neu": 0.722,
+        "label": "BULLISH",
+        "signal": "BUY LONG"
+      },
+      "pair_recommendation": {
+        "bull": "CONL",
+        "bear": "CONI",
+        "sector": "Coinbase & Crypto"
+      }
+    },
+    {
+      "id": 62429279,
+      "created_at": "2026-10-18 12:51:02 UTC",
+      "headline": "This Week in TSLA: Roadster's Flying Debut, Cybercab Speeding in School Zones, SpaceX Merger and More",
+      "summary": "This week, Tesla unveiled its flying Roadster, faced Cybercab questions and merger speculation with SpaceX.",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62429279/this-week-in-tsla-roadsters-flying-debut-cybercab-speeding-in-school-zones-spacex-merger-and-more",
+      "sentiment": {
+        "compound": 0.0,
+        "pos": 0.0,
+        "neg": 0.0,
+        "neu": 1.0,
+        "label": "NEUTRAL",
+        "signal": "HOLD / NEUTRAL"
+      },
+      "pair_recommendation": {
+        "bull": "TSLL",
+        "bear": "TSLS",
+        "sector": "Tesla & EV"
+      }
+    },
+    {
+      "id": 62429218,
+      "created_at": "2026-10-18 12:30:20 UTC",
+      "headline": "Tesla Promises Its Flying Roadster For 2028, but MKBHD Has One Question: \u2018This Is A Prank, Right?\u2019",
+      "summary": "Tesla unveils thruster-powered Roadster capable of hovering and barrel rolls, but YouTuber MKBHD doubts its claims.",
+      "symbols": [
+        "LMT",
+        "SPCX",
+        "TSLA"
+      ],
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62429218/tesla-promises-its-flying-roadster-for-2028-but-mkbhd-has-one-question-this-is-a-prank-right",
+      "sentiment": {
+        "compound": 0.34,
+        "pos": 0.141,
+        "neg": 0.076,
+        "neu": 0.784,
+        "label": "BULLISH",
+        "signal": "BUY LONG"
+      },
+      "pair_recommendation": {
+        "bull": "TSLL",
+        "bear": "TSLS",
+        "sector": "Tesla & EV"
+      }
+    },
+    {
+      "id": 62429164,
+      "created_at": "2026-10-18 11:11:45 UTC",
+      "headline": "Elon Musk Says Optimus, Cybercab Will Be \u2018the Vast Majority\u2019 of Tesla\u2019s Value",
+      "summary": "Musk says Tesla\u2019s Optimus robot and Cybercab will drive most future value as investors await Q3 results and updates on AI, robotaxis and margins.",
+      "symbols": [
+        "TSLA"
+      ],
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62429164/elon-musk-says-optimus-cybercab-will-be-the-vast-majority-of-teslas-value",
+      "sentiment": {
+        "compound": 0.668,
+        "pos": 0.16,
+        "neg": 0.0,
+        "neu": 0.84,
+        "label": "BULLISH",
+        "signal": "BUY LONG"
+      },
+      "pair_recommendation": {
+        "bull": "TSLL",
+        "bear": "TSLS",
+        "sector": "Tesla & EV"
+      }
+    },
+    {
+      "id": 62429143,
+      "created_at": "2026-10-18 11:00:17 UTC",
+      "headline": "iPhone Duo Preorders, AAPL Crosses $5 Trillion and More: This Week in Appleverse",
+      "summary": "Apple dominates headlines as iPhone Duo preorders surge, shares rise, market value tops $5 trillion and China AI launch plans emerge.",
+      "symbols": [
+        "AAPL",
+        "META",
+        "NVDA"
+      ],
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62429143/apple-iphone-duo-preorders-5-trillion-ai-china",
+      "sentiment": {
+        "compound": 0.796,
+        "pos": 0.233,
+        "neg": 0.0,
+        "neu": 0.767,
+        "label": "BULLISH",
+        "signal": "BUY LONG"
+      },
+      "pair_recommendation": {
+        "bull": "SOXL",
+        "bear": "SOXS",
+        "sector": "Semiconductors & AI"
+      }
+    },
+    {
+      "id": 62429062,
+      "created_at": "2026-10-18 10:00:17 UTC",
+      "headline": "Inflation Shakes Fed Outlook Crude Oil Surges, Sanders Targets Oil Companies and More: This Week in Economy",
+      "summary": "Inflation rattles Fed expectations as AI valuations, rising fuel costs, oil taxes and bond yields fuel fresh market concerns.",
+      "symbols": [
+        "DK",
+        "NVDA"
+      ],
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/macro-economic-events/26/10/62429062/inflation-fed-ai-boom-oil-prices-bond-yields",
+      "sentiment": {
+        "compound": -0.34,
+        "pos": 0.057,
+        "neg": 0.092,
+        "neu": 0.85,
+        "label": "BEARISH",
+        "signal": "BUY SHORT"
+      },
+      "pair_recommendation": {
+        "bull": "SOXL",
+        "bear": "SOXS",
+        "sector": "Semiconductors & AI"
+      }
+    },
+    {
+      "id": 62428791,
+      "created_at": "2026-10-18 03:27:04 UTC",
+      "headline": "Kevin O'Leary Says This Is What Sets Elon Musk Apart: 'He Does Not Deal With Noise'",
+      "summary": "Kevin O&#39;Leary says Elon Musk&#39;s relentless focus and avoidance of distractions drive his success, though they may come at a social cost.",
+      "symbols": [
+        "NVDA",
+        "SPCX",
+        "TSLA"
+      ],
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62428791/kevin-oleary-says-this-is-what-sets-elon-musk-apart-he-does-not-deal-with-noise",
+      "sentiment": {
+        "compound": 0.052,
+        "pos": 0.115,
+        "neg": 0.11,
+        "neu": 0.775,
+        "label": "NEUTRAL",
+        "signal": "HOLD / NEUTRAL"
+      },
+      "pair_recommendation": {
+        "bull": "SOXL",
+        "bear": "SOXS",
+        "sector": "Semiconductors & AI"
+      }
+    },
+    {
+      "id": 62428751,
+      "created_at": "2026-10-18 02:23:11 UTC",
+      "headline": "Chamath Palihapitiya Says 6% Treasury Yield Could \u2018Run Over\u2019 AI Businesses",
+      "summary": "Chamath Palihapitiya warns that rising bond yields could threaten debt-dependent businesses and force Big Tech to step in.",
+      "symbols": [
+        "GOOG",
+        "GOOGL",
+        "GS",
+        "JPM",
+        "META",
+        "MSFT",
+        "NVDA"
+      ],
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62428751/chamath-palihapitiya-bond-yield-warning",
+      "sentiment": {
+        "compound": -0.296,
+        "pos": 0.057,
+        "neg": 0.126,
+        "neu": 0.818,
+        "label": "BEARISH",
+        "signal": "BUY SHORT"
+      },
+      "pair_recommendation": {
+        "bull": "SOXL",
+        "bear": "SOXS",
+        "sector": "Semiconductors & AI"
+      }
+    },
+    {
+      "id": 62428557,
+      "created_at": "2026-10-17 19:30:27 UTC",
+      "headline": "Riot Platforms, IREN, and MARA Drop Further as Bitcoin Miners Wrestle With the AI Headwinds",
+      "summary": "Top Bitcoin mining companies pivoting to the AI industry are facing substantial challenges as investors warn about the AI bubble.",
+      "symbols": [
+        "BTCUSD",
+        "IREN",
+        "IT",
+        "MARA",
+        "META",
+        "MSFT",
+        "NVDA",
+        "RIOT",
+        "SPCX"
+      ],
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62428557/riot-platforms-iren-and-mara-drop-further-as-bitcoin-miners-wrestle-with-the-ai-headwinds",
+      "sentiment": {
+        "compound": -0.494,
+        "pos": 0.12,
+        "neg": 0.173,
+        "neu": 0.707,
+        "label": "BEARISH",
+        "signal": "BUY SHORT"
+      },
+      "pair_recommendation": {
+        "bull": "SOXL",
+        "bear": "SOXS",
+        "sector": "Semiconductors & AI"
+      }
+    },
+    {
+      "id": 62428511,
+      "created_at": "2026-10-17 18:30:09 UTC",
+      "headline": "CoreWeave Stock Forms H&S Pattern as Key Bond Yield Hits 15% Amid Insider Selling",
+      "summary": "CoreWeave stock has formed the risky head and shoulders amid the ongoing insider selling and as its bond yields soar.",
+      "symbols": [
+        "CRWV",
+        "IT",
+        "NVDA"
+      ],
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62428511/coreweave-stock-forms-hs-pattern-as-key-bond-yield-hits-15-amid-insider-selling",
+      "sentiment": {
+        "compound": -0.202,
+        "pos": 0.0,
+        "neg": 0.052,
+        "neu": 0.948,
+        "label": "BEARISH",
+        "signal": "BUY SHORT"
+      },
+      "pair_recommendation": {
+        "bull": "SOXL",
+        "bear": "SOXS",
+        "sector": "Semiconductors & AI"
+      }
+    },
+    {
+      "id": 62428455,
+      "created_at": "2026-10-17 17:30:07 UTC",
+      "headline": "S&P 500 Index Outlook: Strong Earnings Meet AI Rout, $110 Oil Prices",
+      "summary": "The S&amp;P 500 Index is in a tight range as the ongoing earnings season fails to offset the AI rout and the soaring oil prices.",
+      "symbols": [
+        "FDS",
+        "SPY",
+        "VOO"
+      ],
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/10/62428455/sp-500-index-outlook-strong-earnings-meet-ai-rout-110-oil-prices",
+      "sentiment": {
+        "compound": 0.128,
+        "pos": 0.082,
+        "neg": 0.07,
+        "neu": 0.848,
+        "label": "NEUTRAL",
+        "signal": "HOLD / NEUTRAL"
+      },
+      "pair_recommendation": {
+        "bull": "UPRO",
+        "bear": "SPXU",
+        "sector": "S&P 500 Broad Market"
+      }
+    }
+  ]
+}
